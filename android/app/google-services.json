@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "695099805424",
+    "firebase_url": "https://daxbier-jmvv1.firebaseio.com",
+    "project_id": "daxbier-jmvv1",
+    "storage_bucket": "daxbier-jmvv1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695099805424:android:f616b29af8264f92293c35",
+        "android_client_info": {
+          "package_name": "com.daxbier_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695099805424-d46h85fcei56cpfm30o6k17oaunsbtjp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.daxbier_app",
+            "certificate_hash": "f9e61a2b1165cef5db444b6c2ae78b4b15cd7cfd"
+          }
+        },
+        {
+          "client_id": "695099805424-ie3kgil3t8mgfmvis1p5p04jjg5nkrfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAipMF52rAKg06SN_GyWh5Tnrgd70Cl_14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695099805424-ie3kgil3t8mgfmvis1p5p04jjg5nkrfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
